@@ -1,10 +1,10 @@
 ### 👋 Hi there, I’m Mohamed Abdelrahman (Crespo) 
-[Linkedin](https://www.linkedin.com/in/mohamed-crespo-530790216/) | [Telegram](https://t.me/Mohamed_Crespo) | mohamedcrespo18@gmail.com
+[Linkedin](https://www.linkedin.com/in/mohamedabdelrahman-back/) | [Telegram](https://t.me/Mohamed_Crespo) | mohamedcrespo18@gmail.com
 
-Hi I'm Mohamed Crespo, Full stack developer  from Egypt.
-- Mern-stack Developer
+Hi I'm Mohamed Abdelrahman, Back-End developer from Egypt.
+- Back-End Developer
 - Python Developer
-- React.js Developer
+- Node.js Developer
 - Self-taught Programmer.
 
 
@@ -16,14 +16,14 @@ Hi I'm Mohamed Crespo, Full stack developer  from Egypt.
 
 
 ### 👨🏻‍💻  Language and tools
-- python
-- javascript
-- git
-- react.js
-- scss
-- mongoDB
-- nodeJS
-- expressJS
+- Python
+- Typescript
+- Git
+- Node.js
+- PostgreSQL
+- MongoDB
+- Express
+- circleci
 <!---
 MoCrespo/MoCrespo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
