@@ -1,5 +1,5 @@
 ### 👋 Hi there, I’m Mohamed Abdelrahman (Crespo) 
-[Linkedin](https://www.linkedin.com/in/mohamedabdelrahman-back/) | [Telegram](https://t.me/Mohamed_Crespo) | mohamedcrespo18@gmail.com
+[Linkedin](https://www.linkedin.com/in/mohamedabdelrahman-back/) | [Telegram](https://t.me/mocrespo18) | mohamedcrespo18@gmail.com
 
 Hi I'm Mohamed Abdelrahman, Back-End developer from Egypt.
 - Back-End Developer
