@@ -1,10 +1,8 @@
 ### 👋 Hi there, I’m Mohamed Abdelrahman
-[Linkedin](https://www.linkedin.com/in/mohamedabdelrahman-back/) | [Telegram](https://t.me/mocrespo18) | mohamedcrespo18@gmail.com
+[Linkedin](https://www.linkedin.com/in/mohamedabdelrahman-back/) | [Telegram](https://t.me/mocrespo18) | mohamedabdelrahman.in@gmail.com
 
 Hi I'm Mohamed Abdelrahman, Back-End developer from Egypt.
-- Back-End Developer
-- Python Developer
-- Node.js Developer
+- Junior Back-End Developer.
 - Self-taught Programmer.
 
 
@@ -19,7 +17,6 @@ Hi I'm Mohamed Abdelrahman, Back-End developer from Egypt.
 - Python
 - Typescript
 - Git
-- Node.js
 - PostgreSQL
 - MongoDB
 - Express
